@@ -1,18 +1,3 @@
-# 随机更新有意思&预算给力的职位
+Every job seeker—every person—has their own top priority—money, workload, colleagues, reputation, fascination, or power. We can't forcibly change someone's deepest desires. Trickery only makes them temporarily forget their true needs, leading them down a detour. What we should really do is challenge market biases and present the facts to those making decisions in the moment.  
 
-
-更新日期 2025年3月8日（available）
---量化研究平台开发工程师--
-岗位职责
-1、负责计算、存储、数据库等选型、搭建、维护和优化
-2、针对不同应用场景，提供高性能计算支持，优化计算资源的分配和调度；提升计算效率
-3、持续优化系统稳定性、性能、成本、可用性、可扩展性、可维护性等
-任职要求
-1、本科及以上学历，计算机相关专业
-2、熟练掌握C++，熟练使用Linux操作系统，具备系统编程、网络编程和Shell脚本编写能力
-3、有较强的算法分析和工程实现能力
-4、熟悉分布式系统设计，有大规模系统设计和工程实现的经验优先
-推荐的理由：
-1、这个岗位base深圳，不过公司在上海市区也有办公室，在大厂加班的朋友们可以心动了，他们不要求同行经验！
-2、200亿+规模的量化，没有年资学历的条条框框，做事儿就行，老板在这行积累够深够靠谱，公司福利好，工作氛围很自由，不是老板一个人的荣耀。
-3、笔试不累心，只要随机抽取你方便的两小时~
+Sometimes, I have a strong intuition about whether a match is right. Whether this happens before or after doesn’t matter—the outcome is inevitable. As a headhunter, I’m merely someone who has gathered enough information and, without any control over the process, happened to step into the right or not right moment to connect with you.
