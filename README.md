@@ -1,3 +1,5 @@
-Every job seeker—every person—has their own top priority—money, workload, colleagues, reputation, fascination, or power. We can't forcibly change someone's deepest desires. Trickery only makes them temporarily forget their true needs, leading them down a detour. What we should really do is challenge market biases and present the facts to those making decisions in the moment.  
+世界由系统驱动，不靠个人意志，游戏规则决定一切，力量在结构里；人类不理性，但有模式，行为可预测，欲望可操控；秩序是被建构的，不是自然的，谁掌控叙事，谁塑造现实。
 
-Sometimes, I have a strong intuition about whether a match is right. Whether this happens before or after doesn’t matter—the outcome is inevitable. As a headhunter, I’m merely someone who has gathered enough information and, without any control over the process, happened to step into the right or not right moment to connect with you.
+理解世界的运作并不消除迷茫，迷茫是常态。
+
+真正的果断是即便复杂且充满未知，你依旧能基于现有信息做出最优选择。
