@@ -1,3 +1,5 @@
+Do you really want to do quant? Remove pay and prestige — why stay?
+
 Hope for good luck
 
 顶尖人才是复杂分形的产物
