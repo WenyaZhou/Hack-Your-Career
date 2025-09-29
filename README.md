@@ -1,3 +1,5 @@
+Regardless of how strong your position, spotting the outs. I feel the same way.
+
 I have to be myself first before I can be anything.
 
 Do you really want to do quant? Remove pay and prestige — why stay?
