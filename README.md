@@ -1,3 +1,8 @@
+这世界上固然有很多比自己优秀很多的人和AI工具，即便面对他们和它们，我依旧要创造自己的想法，比如错误、荒谬、邪恶、幼稚的观点，不完美的思想、不切实际的推测，这些制造麻烦的点子，让世界不毁于无聊。
+
+
+
+
 When you are not in the industry, things seem very opaque. But when you are in the industry, everything is very transparent.
 
 资本家在乎你花了多少时间，企业家在乎你能创造多少价值
